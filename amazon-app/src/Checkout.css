@@ -1,0 +1,19 @@
+.checkout_ad {
+     width: auto;
+     height: 150px;
+
+}
+
+.checkout {
+     display: flex;
+     flex-direction: row;
+
+}
+
+.checkout__left {
+
+     margin-left: auto;
+}
+.checkout__right {
+     margin-right: auto;
+}
